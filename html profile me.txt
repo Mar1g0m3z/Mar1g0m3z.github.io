@@ -1,4 +1,4 @@
 <html>
     <h1>Marisela's Portfolio</h1>
-    <img scr="./profilepic.jpg"/>
+    <img scr="./profile_pic.jpg"/>
 </html>
